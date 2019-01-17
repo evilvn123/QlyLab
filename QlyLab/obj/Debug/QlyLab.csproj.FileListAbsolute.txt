@@ -1,0 +1,108 @@
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+E:\VFolder\Projects\Visual C# winform\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+C:\Users\LENOVO\Desktop\Visual\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+C:\Users\LENOVO\Desktop\Do_Hoang_Viet_20154341\Week_2_Software\Source_Code\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+C:\Users\Duc Minh\Downloads\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.ScanQRcode.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Imaging.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Math.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Imaging.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Math.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)-20190101T071844Z-001\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe.config
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.exe
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\QlyLab.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Imaging.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Math.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.dll
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Imaging.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Math.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.pdb
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\bin\Debug\zxing.presentation.xml
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csprojResolveAssemblyReference.cache
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Dangnhap.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.forgot_pass.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Properties.Resources.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.Qlythietbi.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.RESISTER.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.ScanQRcode.resources
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.csproj.GenerateResource.Cache
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.exe
+C:\Users\Duc Minh\Desktop\Visual(C#)\Quanllythietbi\QlyLab\QlyLab\obj\Debug\QlyLab.pdb

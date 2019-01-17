@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QrWebCam</id>
+    <version>1.0.0</version>
+    <title>QrWebCam</title>
+    <authors>Jaytee</authors>
+    <owners>Jaytee</owners>
+    <projectUrl>https://github.com/Herocod3r/QrWebCam</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple library to read qrcode over webcam</description>
+    <summary />
+    <tags>qrcode webcam</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="AForge" version="2.2.5" />
+        <dependency id="AForge.Math" version="2.2.5" />
+        <dependency id="AForge.Imaging" version="2.2.5" />
+        <dependency id="AForge.Video" version="2.2.5" />
+        <dependency id="AForge.Video.DirectShow" version="2.2.5" />
+        <dependency id="ZXing.Net" version="0.15.0" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
